@@ -14,24 +14,20 @@ http://www.rage.tn/upload/1453203233.pdf
 ### Transformation des tableaux PDF en tableau Excel
 
 
-* sélectionner les données contenues dans le tableau (ne pas inclure les titres des colonnes)
+* Sélectionner les données contenues dans le tableau (ne pas inclure les titres des colonnes)
 * Copier
 * Ouvrir un Editeur de Texte (WordPad / Bloc Notes)
 * Coller
-
-2- copier
-3- ouvrir un éditeur (word pad)
-4- coller 
-5- enregistrer sous rage_année.csv
-6- codage sélectionner le codage Unicode  (les caractères arabes ne sont pas pris en compte pas avec codage ANSI)
-7-Dans  Excel: Fichier - Ouvrir
-8- Ouvrir le fichier .csv
-9- Sélectionner “délimiteur”
-10- sélectionner le délimiteur : tab + espace
-11- corriger le décalage dans les gouvernorats contenant un espace dans leur nom (ben arous, sidi bouzid ) ainsi que dans la dernière ligne (total)
-12- Réécrire les noms des gouvernorats en Français
-13-ajouter une colonne (primary key) pour permettre la jointure avec la table attributaire de la carte .shp
-14-  répéter pour toutes les années 2010 - 2016
+* Enregistrer Sous Rage_année.csv
+* Sélectionner le codage **unicode** : car les caractères arabes ne sont pas pris en compte pas avec codage ANSI
+* Dans  Excel: Fichier - Ouvrir
+* Ouvrir le fichier ### rage_année.csv
+* Sélectionner **délimiteur**
+* Sélectionner le délimiteur **tab + espace**
+* Corriger le décalage dans les gouvernorats contenant un espace dans leur nom (ben arous, sidi bouzid ) ainsi que dans la dernière ligne (total)
+* Réécrire les noms des gouvernorats en Français dans une nouvelle colonne
+* Ajouter une colonne (primary key) pour permettre la jointure avec la table attributaire de la carte .shp
+* Répéter pour toutes les années 2010 - 2016
 
 
 
