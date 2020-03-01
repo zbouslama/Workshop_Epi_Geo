@@ -1,7 +1,7 @@
-#Workshop “Introduction à l’épidémiologie spatiale”
+# Workshop “Introduction à l’épidémiologie spatiale”
 ## Session Pratique 1 - Bases de l’épidémiologie
 
-#Télécharger les données 
+### Télécharger les données 
 
 Les données sont disponibles sur le lien suivant:
 http://www.rage.tn/Fr/situation-en-tunisie_11_269
@@ -9,7 +9,8 @@ Commencer par les données 2012 sous le lien suivant:
 http://www.rage.tn/upload/1453203233.pdf
 
 
-Transformation des tableaux PDF en tableau Excel
+### Transformation des tableaux PDF en tableau Excel
+
 1- sélectionner les données contenues dans le tableau (ne pas inclure les titres des colonnes)
 2- copier
 3- ouvrir un éditeur (word pad)
