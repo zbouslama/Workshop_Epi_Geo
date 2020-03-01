@@ -11,6 +11,6 @@
 * prévalence
 * taux de positivité
 
-**Principe des tests statistiques
+**Principe des tests statistiques**
 * p value
 * Chi²
