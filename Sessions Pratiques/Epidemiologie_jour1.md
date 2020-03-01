@@ -14,7 +14,11 @@ http://www.rage.tn/upload/1453203233.pdf
 ### Transformation des tableaux PDF en tableau Excel
 
 
-1- sélectionner les données contenues dans le tableau (ne pas inclure les titres des colonnes)
+* sélectionner les données contenues dans le tableau (ne pas inclure les titres des colonnes)
+* Copier
+* Ouvrir un Editeur de Texte (WordPad / Bloc Notes)
+* Coller
+
 2- copier
 3- ouvrir un éditeur (word pad)
 4- coller 
