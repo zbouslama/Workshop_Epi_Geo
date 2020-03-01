@@ -5,11 +5,14 @@
 
 Les données sont disponibles sur le lien suivant:
 http://www.rage.tn/Fr/situation-en-tunisie_11_269
+
 Commencer par les données 2012 sous le lien suivant:
 http://www.rage.tn/upload/1453203233.pdf
 
 
+
 ### Transformation des tableaux PDF en tableau Excel
+
 
 1- sélectionner les données contenues dans le tableau (ne pas inclure les titres des colonnes)
 2- copier
@@ -24,4 +27,7 @@ http://www.rage.tn/upload/1453203233.pdf
 11- corriger le décalage dans les gouvernorats contenant un espace dans leur nom (ben arous, sidi bouzid ) ainsi que dans la dernière ligne (total)
 12- Réécrire les noms des gouvernorats en Français
 13-ajouter une colonne (primary key) pour permettre la jointure avec la table attributaire de la carte .shp
-14-  répéter pour toutes les années 2010 - 2016  (se fera en groupe pour gagner du temps)
+14-  répéter pour toutes les années 2010 - 2016
+
+
+
