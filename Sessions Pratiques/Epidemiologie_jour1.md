@@ -18,7 +18,7 @@ Commencer par [les données 2012](http://www.rage.tn/upload/1453203233.pdf)
 * Enregistrer Sous Rage_année.csv
 * Sélectionner le codage **unicode** : car les caractères arabes ne sont pas pris en compte pas avec codage ANSI
 * Dans  Excel: Fichier - Ouvrir
-* Ouvrir le fichier ### rage_année.csv
+* Ouvrir le fichier **rage_année.csv**
 * Sélectionner **délimiteur**
 * Sélectionner le délimiteur **tab + espace**
 * Corriger le décalage dans les gouvernorats contenant un espace dans leur nom (ben arous, sidi bouzid ) ainsi que dans la dernière ligne (total)
