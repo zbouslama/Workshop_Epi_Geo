@@ -83,3 +83,24 @@ Commencer par [les données 2012](http://www.rage.tn/upload/1453203233.pdf)
 
 
 
+## Calcul du Chi² test dur EpiInfo 3
+
+* Ouvrir Epi Info 3
+
+![alt text]
+
+* Dans le menu **utilities** en haut, sélectionner **StatCalc**
+* EN utilisant les flèches du clavier, sélectionner **Tables (2x2, 2xN)** 
+
+
+![alt text]
+
+
+* Entrez chaque case et appuyez sur entrée
+
+![alt text]
+
+
+* A la fin, appuyez **deux fois** sur la touche Entrée pour avoir le résultat
+
+![alt text]
