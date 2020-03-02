@@ -8,6 +8,8 @@ Les données sont disponibles sur le [Site Web de la CNLAR](http://www.rage.tn/F
 Commencer par [les données 2012](http://www.rage.tn/upload/1453203233.pdf)
 
 
+![alt text](Sessions Pratiques/SCRNshot/2siteweb2012.JPG)
+
 ### Transformation des tableaux PDF en tableau Excel
 
 
