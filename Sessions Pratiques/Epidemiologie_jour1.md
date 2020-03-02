@@ -38,7 +38,7 @@ Commencer par [les données 2012](http://www.rage.tn/upload/1453203233.pdf)
 
 * Corriger le décalage dans les gouvernorats contenant un espace dans leur nom (ben arous, sidi bouzid ) ainsi que dans la dernière ligne (total)
 
-! [alt text](https://github.com/zbouslama/Workshop_Qgis/blob/master/Sessions%20Pratiques/SCRNshot/8excel.JPG)
+![alt text](https://github.com/zbouslama/Workshop_Qgis/blob/master/Sessions%20Pratiques/SCRNshot/8excel.JPG)
 
 * Réécrire les noms des gouvernorats en Français dans une nouvelle colonne
 * Ajouter une colonne (primary key) pour permettre la jointure avec la table attributaire de la carte .shp
