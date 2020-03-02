@@ -87,20 +87,19 @@ Commencer par [les données 2012](http://www.rage.tn/upload/1453203233.pdf)
 
 * Ouvrir Epi Info 3
 
-![alt text]
+![alt text](https://github.com/zbouslama/Workshop_Qgis/blob/master/Sessions%20Pratiques/SCRNshot/10epiinfo.JPG)
 
 * Dans le menu **utilities** en haut, sélectionner **StatCalc**
 * EN utilisant les flèches du clavier, sélectionner **Tables (2x2, 2xN)** 
 
 
-![alt text]
+![alt text](https://github.com/zbouslama/Workshop_Qgis/blob/master/Sessions%20Pratiques/SCRNshot/11statcalc.JPG)
 
 
 * Entrez chaque case et appuyez sur entrée
 
-![alt text]
+![alt text](https://github.com/zbouslama/Workshop_Qgis/blob/master/Sessions%20Pratiques/SCRNshot/12chi2.JPG)
 
 
 * A la fin, appuyez **deux fois** sur la touche Entrée pour avoir le résultat
 
-![alt text]
