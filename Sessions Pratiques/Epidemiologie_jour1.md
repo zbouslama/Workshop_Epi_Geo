@@ -15,26 +15,37 @@ Commencer par [les données 2012](http://www.rage.tn/upload/1453203233.pdf)
 
 * Sélectionner les données contenues dans le tableau (ne pas inclure les titres des colonnes)
 
+
+
 ![alt text](https://github.com/zbouslama/Workshop_Qgis/blob/master/Sessions%20Pratiques/SCRNshot/3copy.JPG)
+
 
 * Copier
 
+
 * Ouvrir un Editeur de Texte (WordPad / Bloc Notes)
+
 
 * Coller
 
+
 * Enregistrer Sous Rage_2012.csv
+
 
 * Sélectionner le codage **unicode** : car les caractères arabes ne sont pas pris en compte pas avec codage ANSI
 
+
+
+
 ![alt text](https://github.com/zbouslama/Workshop_Qgis/blob/master/Sessions%20Pratiques/SCRNshot/4Capture_Unicode.JPG)
+
 
 
 * Dans  Excel: Fichier - Ouvrir
 
 * Ouvrir le fichier **rage_2012.csv**
 
-* Sélectionner **délimité**
+* Une fenêtre s'ouvre --> Sélectionner **délimité**
 
 
 
