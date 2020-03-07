@@ -88,7 +88,7 @@ Commencer par [les données 2012](http://www.rage.tn/upload/1453203233.pdf)
 ## Discussions
 
 * Quelles informations pourrait apporter le nombre de prélèvements envoyés au laboratoire?
-* Peut-on comparer l'efficacité de la vaccinatino canine selon les gouvernorats? quel indicateur peut-on calculer?
+* Peut-on comparer l'efficacité de la vaccination canine selon les gouvernorats? quel indicateur peut-on calculer?
 * Est ce que l'incidence de la rage animale a augmenté au cours des dernières années?
 
 
