@@ -4,4 +4,4 @@
 
 Formateurs:   Dr Jaber BALKHIRIA      Dr Zied BOUSLAMA
 
-
+![alt text](photo_de_groupe_formation.jpg)
